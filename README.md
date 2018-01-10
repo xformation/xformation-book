@@ -42,7 +42,7 @@ Today business demand scalability , agility , performance , reliability , securi
 
 ---
 
-* We are working primarily on container orchestration , server less programming , cloud automation and RAD\( rapid application development technologies\).
+* We are working primarily on IAAC\( infrastructure as a code\) , container orchestration , server less programming , cloud automation and RAD\( rapid application development technologies\).
 
 ---
 

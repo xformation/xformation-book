@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Requirement](chapter1.md)
-  * [UseCases](chapter1/usecases.md)
-  * [UserInterfaces](chapter1/userinterfaces.md)
-  * SupportMatrix
+  * [User Interfaces](chapter1/userinterfaces.md)
+  * [Use Cases](chapter1/usecases.md)
+  * [Support Matrix](chapter1/supportmatrix.md)
 * [Architecture](architecture.md)
-* Design
+* [Design](design.md)
 
