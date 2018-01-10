@@ -16,3 +16,21 @@
 
 ![](/assets/TQM1.png)
 
+![](/assets/TQM2.png)
+
+# Automation Central
+
+![](/assets/Automation1.png)
+
+# Operation Central -- Service wise & Total resource consumption
+
+![](/assets/OSS1.png)
+
+# Operation Central -- Availability Central
+
+![](/assets/OSS2.png)
+
+
+
+
+
