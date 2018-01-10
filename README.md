@@ -1,4 +1,6 @@
-# **Synectiks Xformation Platform **: **Multi cloud container orchestration and continuous delivery platform.**
+#                                                **Xformation  **
+
+## **Multi cloud container orchestration and continuous delivery platform.**
 
 The xformation platform simplify the IT. Customer can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
 
@@ -26,7 +28,7 @@ Today business demand scalability , agility , performance , reliability , securi
 
 # Social Impact
 
-* ### Time 
+* ### Time
 
   * Instead of spending 90% time in hardware , operation , we can spent that 90% time in innovation , creating better applications that  people can us widely and get benefited. We justify our precious time as well as our due responsibilities towards society.
 * ### Money
@@ -35,8 +37,6 @@ Today business demand scalability , agility , performance , reliability , securi
 * ### Environment
 
   * The worldwide server consumption is less than 10% , 90% existing hardware is underutilized. We can  create a software defined world and reclaim existing hardware resources. Hardware  creates carbon, need power. If we reclaim properly the worldwide idle hardware resources even 20% , then world wont need hardware for next 10 years. That can sponsor billions of people education.
-
-
 
 ---
 
