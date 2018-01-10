@@ -4,7 +4,7 @@ The xformation platform simplify the IT. Customer can use it to go to any cloud 
 
 # Inspiration :
 
-Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time dealing with them. I wanted to create something so that people who have extreme brilliant mind and thinking to deliver application that creates positive impact to a larger society , they can create and deliver them to mass with less operations.
+Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time dealing with them. I wanted to contribute something for those people who have extreme brilliant mind and thinking to deliver application that creates positive impact to a larger society.The xformation platform will help them to create and deliver  people friendly applications to mass with less operations.
 
 # Rational :
 
@@ -39,8 +39,6 @@ We are working primarily on container orchestration , server less programming , 
 ---
 
 # ROI & TCO
-
-
 
 
 
