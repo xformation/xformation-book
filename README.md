@@ -6,7 +6,7 @@ The xformation platform simplify the IT. Customer can use it to go to any cloud 
 
 Once I interacted with a customer , who had extremely innovative mindset and he had crazy ideas that could help billions of people. But everytime he created some applications , he faced operation challenges and he spent his most time dealing with them. I wanted to contribute something for those people who have extreme brilliant mind and thinking to deliver application that creates positive impact to a larger society.The xformation platform will help them to create and deliver  people friendly applications to mass with less operations.
 
-# Rational :
+# Rationale :
 
 ---
 
@@ -26,7 +26,17 @@ Today business demand scalability , agility , performance , reliability , securi
 
 # Social Impact
 
-Instead of spending 90% time in hardware , operation , we can spent that 90% time in innovation , creating better applications that  people can us widely and get benefited. We justify our precious time as well as our due responsibilities towards society.
+* ### Time 
+
+  * Instead of spending 90% time in hardware , operation , we can spent that 90% time in innovation , creating better applications that  people can us widely and get benefited. We justify our precious time as well as our due responsibilities towards society.
+* ### Money
+
+  * Today business demand to do more in less. Organization will have challenges to deliver more in less CAPEX & OPEX.xformation platform help customers to have elastic infrastructure and application and there reduce any wastage of hardware , people effort. 
+* ### Environment
+
+  * The worldwide server consumption is less than 10% , 90% existing hardware is underutilized. We can  create a software defined world and reclaim existing hardware resources. Hardware  creates carbon, need power. If we reclaim properly the worldwide idle hardware resources even 20% , then world wont need hardware for next 10 years. That can sponsor billions of people education.
+
+
 
 ---
 
@@ -39,6 +49,9 @@ We are working primarily on container orchestration , server less programming , 
 ---
 
 # ROI & TCO
+
+* TCO reduced to 60%, because of 80% operation cost , 70% Hardware Cost , 100% License cost saving.
+* ROI – Typical micro services project takes 60 man months. It delivers 10X agility, 30X reliability , 10X operational efficiency.
 
 
 
