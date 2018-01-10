@@ -1,3 +1,4 @@
-# My Awesome Book
+**Synectiks Xformation Platform **: **Multi cloud container orchestration and continuous delivery platform.**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The xformation platform simplify the IT. Customer can use it to go to any cloud , create container clusters, develop and deploy micro service / bigdata / IOT applications seamlessly and manage operation with our automation bots.
+
