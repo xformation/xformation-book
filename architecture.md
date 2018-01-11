@@ -12,7 +12,7 @@ The  bottom half deals with hardware and network scale out. The architecture ass
 
 At the network layer , it assumes that , private and public cloud are hosted in same colocation enuring minimal hop between them as well as they stay in same private network space. We collborate with Equinix colocation platform  and use their IBX/ IOA based communication to guarantee the scalability / performance and security at network layer.
 
-Synectiks xformation platform currently handles the upper half of the architecture.
+Synectiks xformation platform currently implements the automation and orchestration  of the  cloud , container orchestrator, devops and alm layer.
 
 # Microservice Base Application Architecture
 
