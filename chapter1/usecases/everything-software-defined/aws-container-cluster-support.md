@@ -38,29 +38,10 @@ Alternate Flows:
 
 6A1: The user select AWS native ECS cluster option.The system will present the following configuration options:
 
-1. The user will indicate that this order should use alternate billing or shipping information.
-2. The user will enter billing and shipping information for this order.
-3. The system will validate the billing and shipping information.
+1. The machine template to be used in ECS cluster.
+2. Associate EFS  shared filesystem or not
+3. Create cluster with Auxiliary services
 4. The use case continues
-
-5A1: The user will discover an error in the billing or shipping information associated with their account, and will change it.
-
-1. The user will indicate that the billing and shipping information is incorrect.
-2. The user will edit the billing and shipping information associated with their account.
-3. The system will validate the billing and shipping information.
-4. The use case returns to step 2 and continues.
-
-5A2: The user will discover an error in the billing or shipping information that is uniquely being used for this order, and will change it.
-
-1. The user will indicate that the billing and shipping information is incorrect.
-2. The user will edit the billing and shipping information for this order.
-3. The use case returns to step 3A1 step 3.
-
-10A1: The user will determine that the order is not acceptable \(perhaps due to disatisfaction with the estimated delivery date\) and will cancel the order.
-
-1. The user will request that the order be cancelled.
-2. The system will confirm that the order has been cancelled.
-3. The use case ends.
 
 
 
