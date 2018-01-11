@@ -1,4 +1,4 @@
-Use Case Name: AWS Container Cluster
+Use Case Name: Azure Container Cluster
 
 Actors:
 
@@ -7,7 +7,7 @@ Actors:
 
 Triggers:
 
-* The user indicates that he wants to create a container cluster in AWS
+* The user indicates that she wants to purchase items that she has selected.
 
 Preconditions:
 
