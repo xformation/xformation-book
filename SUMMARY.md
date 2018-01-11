@@ -7,7 +7,7 @@
     * [Everything Software Defined](chapter1/usecases/everything-software-defined.md)
       * [AWS container cluster support](chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
       * [Azure Container Cluster](chapter1/usecases/everything-software-defined/azure-container-cluster.md)
-      * GCP container cluster
+      * [GCP container cluster](chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
   * [Support Matrix](chapter1/supportmatrix.md)
 * [Architecture](architecture.md)
 * [Design](design.md)
