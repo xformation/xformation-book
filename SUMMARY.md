@@ -8,6 +8,7 @@
       * [AWS container cluster support](chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
       * [Azure Container Cluster](chapter1/usecases/everything-software-defined/azure-container-cluster.md)
       * [GCP container cluster](chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
+    * Continous Delivery
   * [Support Matrix](chapter1/supportmatrix.md)
 * [Architecture](architecture.md)
 * [Design](design.md)
