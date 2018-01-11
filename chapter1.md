@@ -4,25 +4,27 @@ Smart tooling and automation hugely streamlines delivery and management within o
 
 # Key Features
 
-* ### Everything Software defined \(IAAC & CONTAINER ORCHESTRATION\)
+### Everything Software defined \(IAAC & CONTAINER ORCHESTRATION\)
 
-  * Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
-  * #### Use Cases-
+* Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
 
-    [AWS Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
+#### Use Cases-
 
-  * [Azure Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/azure-container-cluster.md)
+*       [AWS Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
+*      [Azure Container Cluster Provisioning](/chapter1/usecases/everything-software-defined/azure-container-cluster.md)
+*      [Google Cloud  Conatiner Cluster Provisioning](/chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
 
-  * [Google Cloud  Conatiner Cluster Provisioning](/chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
-* ### Continous Delivery
+### Continous Delivery
 
-  * It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.
-* ### Rapid Application Delivery
+* It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.
 
-  * It will help customers to rapidly develop/deploy/maintain microservices / bigdata / IOT application seamlessly. The base application templates along with delivery and operation automations will be provided so that customers can rapidly build highly scalable applications.
-* ### Operation Automation
+### Rapid Application Delivery
 
-  * It will help customers to  manage his day to day operations and diagnostics ability with automation bots. Most operation automation bots are written in server less programming.
+* It will help customers to rapidly develop/deploy/maintain microservices / bigdata / IOT application seamlessly. The base application templates along with delivery and operation automations will be provided so that customers can rapidly build highly scalable applications.
+
+### Operation Automation
+
+* It will help customers to  manage his day to day operations and diagnostics ability with automation bots. Most operation automation bots are written in server less programming.
 
 
 
