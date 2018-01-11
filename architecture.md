@@ -16,7 +16,16 @@ Synectiks xformation platform currently implements the automation and orchestrat
 
 # Microservice Base Application Architecture
 
-![](/assets/microservices-arch.png)
+![](/assets/microservices-arch.png)Notes :
+
+This is a standard microservice based basic application architecture. We tried to carefully refactor the basic services what any enterprise  application would require and provision them separately. Each microservices uses some combination of  Cache / SQL / NOSQL / GRAPH/ BIGDATA databases to make them individually scalable.Here follows the list of basic services along with their functionality and database components:
+
+1. **SESSION & SECURITY   SERVICE- **Primarily  serves session / security / role based access control. This uses redis cluster \( cache db\) and nosql database \(dynamo\) .
+2. **CONFIGURATION  SERVICE- **Serves application configuration and config customization abilities. This use dynamo at the backend.
+3. **WORKFLOW  SERVICE--**Serves business workflow services. It uses Dynamo \(NOSQL\) at the back end.
+4. **CONTENT  SERVICE-- **Serves storing and accessing and searching of all documents , attatchments. It uses mongodb at the backend and distributed filesystem \(CEPH\) at the back end.
+5. **Search Service --** Perform elastic and intellegent searches on any record. Uses distributed filesystem for indexing.
+6. **WIKI Service -- **
 
 # AWS Microservices Deployment Diagram
 
