@@ -4,17 +4,13 @@ Smart tooling and automation hugely streamlines delivery and management within o
 
 # Key Features
 
-* ### Everything Software defined --
+* ### Everything Software defined \(IAAC & CONTAINER ORCHESTRATION\)
 
-  * Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.
+  * Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
   * #### Use Cases-
 
-    AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ MESSOS\)
+    [AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ MESSOS\)](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
 
-    [AWS container cluster support](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
-* ### Container Orchestration --
-
-  * It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
 * ### Continous Delivery
 
   * It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.
