@@ -10,7 +10,6 @@ Smart tooling and automation hugely streamlines delivery and management within o
   * #### Use Cases-
 
     [AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ MESSOS\)](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
-
 * ### Continous Delivery
 
   * It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.

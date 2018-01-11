@@ -1,11 +1,9 @@
-Use Case Name: Place Order
+Use Case Name: AWS Container Cluster
 
 Actors:
 
-* Registered Shopper \(Has an existing account, possibly with billing and shipping information\)
-* Non-registered Shopper \(Does not have an existing account\)
-* Fulfillment System \(processes orders for delivery to customers\)
-* Billing System \(bills customers for orders that have been placed\)
+* System Admin\( Who creates container cluster for application deployment\)
+* Developer \( Who creates container cluster for devlopment purpose\)
 
 Triggers:
 
@@ -13,13 +11,13 @@ Triggers:
 
 Preconditions:
 
-* User has selected the items to be purchased.
+* User Choose the create bucket option from the  xformation UI application
 
 Post-conditions:
 
-* The order will be placed in the system.
-* The user will have a tracking ID for the order.
-* The user will know the estimated delivery date for the order.
+* The bucket \(container cluster\) will be created on the cloud
+* The  bucket will be listed the in  home page 
+* The bucket will be ready to deploy the application services by dragging the application from right pane.
 
 Normal Flow:
 
