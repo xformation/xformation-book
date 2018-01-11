@@ -1,4 +1,4 @@
-The Use Cases primarily falls under the category 
+The Use Cases primarily falls under the category
 
 1. Software Defined World \( Deals with IAAC & container orchestration\)
 2. Continous Delivery \( Microservices , bigdata ecosystem  and IOT application delivery\)
