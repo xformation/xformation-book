@@ -7,7 +7,7 @@ Actors:
 
 Triggers:
 
-* The user indicates that he wants to create a container cluster in AWS.
+* The user indicates that he wants to create a container cluster in Azure.
 
 Preconditions:
 
@@ -21,10 +21,10 @@ Post-conditions:
 
 Normal Flow:
 
-1. The user will select the cloud AWS , from the list options \(AWS / AZURE / GCP / VMWARE/ OPENSTACK / OVH\)
-2. The system will present the  AWS cloud configuration options
-3. The user will configure the  AWS  Auth provider or credential profile and region from the list of options
-4. The system will present the  different container cluster \(ECS/ KUBERNETES/DCOS/SWARM\) that user can select
+1. The user will select the cloud Azure , from the list options \(AWS / AZURE / GCP / VMWARE/ OPENSTACK / OVH\)
+2. The system will present the  Azure cloud configuration options
+3. The user will configure the  Azure  Auth provider or credential profile and region from the list of options
+4. The system will present the  different container cluster \(ECS/ KUBERNETES/DCOS\) that user can select
 5. The user will select the container cluster of his choice from the list of options.
 6. The system will provide the cluster configuration options depending on the selection of container cluster
 7. The system will enable the ADD button when all the configuration data setup is complete.
