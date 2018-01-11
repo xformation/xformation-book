@@ -9,7 +9,12 @@ Smart tooling and automation hugely streamlines delivery and management within o
   * Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
   * #### Use Cases-
 
-    [AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ MESSOS\)](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
+    [AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ SWARM\)](/chapter1/usecases/everything-software-defined/aws-container-cluster-support.md)
+
+          [Azure Container Cluster Provisioning \( Kuberenetes/DCOS/SWARM\)](/chapter1/usecases/everything-software-defined/azure-container-cluster.md)
+
+                [Google Container Cluster Provisioning \( Kubernetes / DCOS/ SWARM / NATIVE\)](/chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
+
 * ### Continous Delivery
 
   * It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.
