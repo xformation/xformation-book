@@ -36,10 +36,10 @@ Normal Flow:
 
 Alternate Flows:
 
-6A1: The user select AWS native ECS cluster option.The system will present the following configuration options:
+6A1: The user select kubernetes cluster option.The system will present the following configuration options:
 
-1. The machine template to be used in ECS cluster.
-2. Associate EFS  shared filesystem or not
+1. The machine template to be used in kubernetes cluster.
+2. Associate   shared filesystem or not
 3. Create cluster with Auxiliary services
 4. The use case continues
 
