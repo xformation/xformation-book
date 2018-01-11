@@ -25,7 +25,18 @@ This is a standard microservice based basic application architecture. We tried t
 3. **WORKFLOW  SERVICE--**Serves business workflow services. It uses Dynamo \(NOSQL\) at the back end.
 4. **CONTENT  SERVICE-- **Serves storing and accessing and searching of all documents , attatchments. It uses mongodb at the backend and distributed filesystem \(CEPH\) at the back end.
 5. **Search Service --** Perform elastic and intellegent searches on any record. Uses distributed filesystem for indexing.
-6. **WIKI Service -- **
+6. **WIKI Service -- **It store and manages the text contents. It uses Aurora RDS.
+7. **SSO Service -- **It manages the Single Sign On service 
+8. **Rating / Feedback Service --** It manages some basic rating / feedback services.It uses NEo4j and couchcache database.
+9. **Bigdata Analytic Service  -- **It implements bigdata based analytic services. It uses DRUID on top of HDFS for olap on bigdata.
+10. **Web UI** --  Application Web based UI
+11. **API GATEWAY -- **API gateway for API serving
+
+Workflow service use  JCR content service , WIKI service to cater horizontal scalability.
+
+Apart from this , any application will have his own domain driven services depending on its functionalities.
+
+A highly scaleout application should deploy all its basic services along with its domain drive services to a aggregated container cluster. Each individual services uses some combination of Cache / SQL / NOSQL / GRAPH/ BIGDATA databases and they also get deployed in aggregated container cluster.
 
 # AWS Microservices Deployment Diagram
 
