@@ -7,7 +7,7 @@ Actors:
 
 Triggers:
 
-* The user indicates that she wants to purchase items that she has selected.
+* The user indicates that he wants to create a container cluster in AWS.
 
 Preconditions:
 
