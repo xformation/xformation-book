@@ -7,18 +7,20 @@ Smart tooling and automation hugely streamlines delivery and management within o
 * ### Everything Software defined --
 
   * Through our code , customers can go to any cloud \(private/public\), aggregate hardware resources in pure software defined way and pupulate highly secured elastic platform to deliver application services.
+  * #### Use Cases-
+
+    AWS Container Cluster Provisioning \( ECS/ Kubernetes/ DCOS/ MESSOS\)
+
+    #### 
 * ### Container Orchestration --
 
   * It will help customers to create  and maintain contianer delivery clusters \( AWS ECS , Kubernetes, Messos DCOS, SWARM\) across cloud \(private / public\) in a most efficient manner.
-
-* ###  Continous Delivery
+* ### Continous Delivery
 
   * It  will help to deliver containerized microservices through quality gates , that will ensure highest level of software quality , agility , relaibility.
-
 * ### Rapid Application Delivery
 
   * It will help customers to rapidly develop/deploy/maintain microservices / bigdata / IOT application seamlessly. The base application templates along with delivery and operation automations will be provided so that customers can rapidly build highly scalable applications.
-
 * ### Operation Automation
 
   * It will help customers to  manage his day to day operations and diagnostics ability with automation bots. Most operation automation bots are written in server less programming.
