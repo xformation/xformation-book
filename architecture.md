@@ -22,3 +22,5 @@ At the network layer , it assumes that , private and public cloud are hosted in 
 
 Synectiks xformation platform currently implements the automation and orchestration  of the  cloud , container orchestrator, devops and alm layer, primarily layer 1 & 2.
 
+
+
