@@ -1,9 +1,3 @@
 {
-    "plugins": ["toggle-chapters","insert-logo-link"],
-    "pluginsConfig": {
-        "insert-logo-link": {
-            "src": "synectiks-logo.png",
-            "url": "www.synectiks.com"
-        }
-    }
+    "plugins": ["toggle-chapters"]
 }
