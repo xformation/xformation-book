@@ -6,7 +6,7 @@ Details --
 
 This is overall system architecture . The architecture attempts to ensure scalability across every layer \( infra / app\) to ensure horizontal scalability everywhere.This is the master architecture to write a higly scaleout application, it talks about appliaction services , compute and network platform.
 
-# 1--
+# 1---
 
 The upper half deals with the hardware aggregation on the top of cloud layer. With the available container orchestrator , we aggregate  CPU / Storage / Network  and it looks like a 1 big consolidated resource. You can deploy application services seamlessly through the continous delivery pipeline  and they run being transparent to the underneath computing resources.At application level , the scalability is achieved at individual service level as well as elastic resource pool level.
 
