@@ -11,5 +11,4 @@
     * [Continous Delivery](chapter1/usecases/continous-delivery.md)
   * [Support Matrix](chapter1/supportmatrix.md)
 * [Design](design.md)
-* [Architecture](architecture.md)
 
