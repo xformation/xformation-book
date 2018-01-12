@@ -48,7 +48,7 @@ Apart from this , any application will have his own domain driven services depen
 
 A highly scaleout application should deploy all its basic services along with its domain drive services to a aggregated container cluster. Each individual services uses some combination of Cache / SQL / NOSQL / GRAPH/ BIGDATA databases and they also get deployed in aggregated container cluster.
 
-# AWS Microservices Deployment Diagram
+# 
 
 
 
