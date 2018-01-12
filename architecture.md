@@ -1,4 +1,4 @@
-# Platform Architecture:
+# Total Scale Out Platform Architecture:
 
 ![](/assets/Architechture-Diagram.jpg)
 
