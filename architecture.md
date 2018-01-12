@@ -6,7 +6,7 @@ Details --
 
 This is overall system architecture . The architecture attempts to ensure scalability across every layer \( infra / app\) to ensure horizontal scalability everywhere.
 
-# 1--  
+# 1--
 
 The upper half deals with the hardware aggregation on the top of cloud layer. With the available container orchestrator , we aggregate  CPU / Storage / Network  and it looks like a 1 big consolidated resource. You can deploy application services seamlessly through the continous delivery pipeline  and they run being transparent to the underneath computing resources.At application level , the scalability is achieved at individual service level as well as elastic resource pool level.
 
@@ -24,7 +24,7 @@ At the network layer , it assumes that , private and public cloud are hosted in 
 
 Synectiks xformation platform currently implements the automation and orchestration  of the  cloud , container orchestrator, devops and alm layer, primarily layer 1 & 2.
 
-# Microservice Base Application Architecture
+# Microservice based basic Application Architecture
 
 ![](/assets/microservices-arch.png)Notes :
 
