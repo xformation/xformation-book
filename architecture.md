@@ -1,4 +1,4 @@
-# Platform Architecture: {#main}
+# Platform Architecture: 
 
 ![](/assets/Architechture-Diagram.jpg)
 
