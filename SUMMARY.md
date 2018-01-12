@@ -10,6 +10,6 @@
       * [GCP container cluster](chapter1/usecases/everything-software-defined/gcp-container-cluster.md)
     * [Continous Delivery](chapter1/usecases/continous-delivery.md)
   * [Support Matrix](chapter1/supportmatrix.md)
-* [Architecture](architecture.md)
 * [Design](design.md)
+* [Architecture](architecture.md)
 
