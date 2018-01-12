@@ -4,7 +4,7 @@
 
 Details --
 
-This is overall system architecture . The architecture attempts to ensure scalability across every layer \( infra / app\) to ensure horizontal scalability everywhere.
+This is overall system architecture . The architecture attempts to ensure scalability across every layer \( infra / app\) to ensure horizontal scalability everywhere.This is the master architecture to write a higly scaleout application, it talks about appliaction services , compute and network platform.
 
 # 1--
 
