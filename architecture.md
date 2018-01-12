@@ -1,10 +1,6 @@
-# Platform Architecture:![](/assets/Architechture-Diagram.jpg)
+# Platform Architecture:
 
-# ![](/assets/Architechture-Diagram.jpg)
-
-# ![](/assets/Architechture-Diagram.jpg)
-
-# ![](/assets/Architechture-Diagram.jpg)
+![](/assets/Architechture-Diagram.jpg)
 
 Details --
 
