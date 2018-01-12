@@ -1,5 +1,5 @@
 {
-    "plugins": ["toggle-chapters","insert-logo-link", "another plugin 1", "another plugin 2"],
+    "plugins": ["toggle-chapters","insert-logo-link"],
     "pluginsConfig": {
         "insert-logo-link": {
             "src": "/synectiks-logo.png",
