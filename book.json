@@ -2,7 +2,7 @@
     "plugins": ["toggle-chapters","insert-logo-link", "another plugin 1", "another plugin 2"],
     "pluginsConfig": {
         "insert-logo-link": {
-            "src": "/Syn_logo.jpg",
+            "src": "Syn_logo.jpg",
             url: "www.synectiks.com"
         }
     }
