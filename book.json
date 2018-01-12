@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "insert-logo-link": {
             "src": "Syn_logo.jpg",
-            url: "www.synectiks.com"
+            "url": "www.synectiks.com"
         }
     }
 }
