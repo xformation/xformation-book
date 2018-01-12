@@ -15,4 +15,5 @@
   * [AWS Microservices Deployment Diagram](architecture/aws-microservices-deployment-diagram.md)
 * [Design](design.md)
 * [Assesment](assesment.md)
+  * [Digital Transformation Assesment](assesment/digital-transformation-assesment.md)
 
