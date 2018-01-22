@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>Xformation</title>
+
+         <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <!-- Our Custom CSS -->
+        <link rel="stylesheet" href="style.css">
+        <style>
+            .table.table.table-bordered {
+                width: 61em !important;
+            }
+
+            .cursor{
+                cursor: default;
+            }
+            .r-10{
+                position: absolute;
+                right: 10em;
+            }
+            .ra-10{
+                position: absolute;
+                right: 35em;
+            }
+            .ra-14{
+                position: absolute;
+                right: 58em;
+            }
+        </style>
+    </head>
+    <body>
+
+
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                   <a href="index.html"><h3>Xformation</h3></a>
+                </div>
+
+                <ul class="list-unstyled components">
+
+                    <li class="active">
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Scalability</a>
+                        <ul class="collapse list-unstyled" id="homeSubmenu">
+                            <li><a href="index.html">Application Scalability</a></li>
+                            <li><a href="storagescale.html">Storage Scalability</a></li>
+                            <li><a href="networkscale.html">Network Scalability</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="availability.html">Availability</a>
+                        <a href="#managementpages" data-toggle="collapse" aria-expanded="false">Mamagement</a>
+                        <ul class="collapse list-unstyled" id="managementpages">
+                            <li><a href="deploy.html">Deployment</a></li>
+                            <li><a href="ops.html">Operation Support System</a></li>
+                            <li><a href="alm.html">ALM</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#security" data-toggle="collapse" aria-expanded="false">Security</a>
+                        <ul class="collapse list-unstyled" id="security">
+                            <li><a href="appsecurity.html">Application Security</a></li>
+                            <li><a href="databasesecu.html">Database Security</a></li>
+                            <li><a href="netsecure.html">Network Security</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#Performance" data-toggle="collapse" aria-expanded="false">Performance</a>
+                        <ul class="collapse list-unstyled" id="Performance">
+                          <li><a href="apperformance.html">Application Performance</a></li>
+                          <li><a href="storageperformance.html">Storage Performance</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="backupdr.html" aria-expanded="false">Backup & Dr</a>
+                    </li>
+                </ul>
+
+            </nav>
+
+            <!-- Page Content Holder -->
+            <div id="content">
+
+
+    <h1 class="text-center">Application Security</h1>
+
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th>Criterion</th>
+                        <th>Description</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>Application comply with the security checks below
+                                    Transport—
+                                </li>
+                                <li>Check SSL Version, Algorithms, Key length</li>
+                                <li>Check for Digital Certificate Validity (Duration, Signature
+                                    and CN)
+                                </li>
+                                <li>Check credentials only delivered over HTTPS</li>
+                                <li>Check that the login form is delivered over HTTPS</li>
+                                <li>Check session tokens only delivered over HTTPS</li>
+                                <li>Check if HTTP Strict Transport Security (HSTS) in use</li>
+                                <li>Test ability to forge requests</li>
+                                <li>Test Web Messaging (HTML5)</li>
+                                <li>Check CORS implementation (HTML5)</li>
+                            </ul>
+                            <ul>
+                                Data Validation:
+                                <li>Test for HTML Injection</li>
+                                <li>Test for SQL Injection</li>
+                                <li>Test for LDAP Injection</li>
+                                <li>Test for ORM Injection</li>
+                                <li>Test for XML Injection</li>
+                                <li>Test for XXE Injection</li>
+                                <li>Test for SSI Injection</li>
+                                <li>Test for XPath Injection</li>
+                                <li>Test for XQuery Injection</li>
+                                <li>Test for IMAP/SMTP Injection</li>
+                                <li>Test for Code Injection</li>
+                                <li>Test for Expression Language Injection</li>
+                                <li>Test for Command Injection</li>
+                                <li>Test for NoSQL injection</li>
+                                <li>Test for Reflected Cross Site Scripting</li>
+                                <li>Test for Stored Cross Site Scripting</li>
+                                <li>Test for DOM based Cross Site Scripting</li>
+                                <li>Test for Cross Site Flashing</li>
+                                <li>Test for Overflow (Stack, Heap and Integer)</li>
+                                <li>Test for Format String</li>
+                                <li>Test for incubated vulnerabilities</li>
+                                <li>Test for HTTP Splitting/Smuggling</li>
+                                <li>Test for HTTP Verb Tampering</li>
+                                <li>Test for Open Redirection</li>
+                                <li>Test for Local File Inclusion</li>
+                                <li>Test for Remote File Inclusion</li>
+                                <li>Compare client-side and server-side validation rules</li>
+                                <li>Test for HTTP parameter pollution</li>
+                                <li>Test for auto-binding</li>
+                                <li>Test for Mass Assignment</li>
+                                <li>Test for NULL/Invalid Session Cookie</li>
+                                <li>Test for integrity of data</li>
+                                <li>Test for the Circumvention of Work Flows</li>
+                                <li>Test Defenses Against Application Mis-use</li>
+                                <li>Test That a Function or Feature Cannot Be Used Outside
+                                    of Limits
+                                </li>
+                                <li>Test for Process Timing</li>
+                                <li>Test for Web Storage SQL injection (HTML5)</li>
+                                <li>Check Offline Web Application</li>
+                            </ul>
+                            <p>Denial of Service</p>
+                            <ul>
+                                <li>Test for anti-automation</li>
+                                <li>Test for account lockout</li>
+                                <li>Test for HTTP protocol DoS</li>
+                                <li>Test for SQL wildcard DoS</li>
+                                Authentication
+                                <li>Test password quality rules</li>
+                                <li>Test remember me functionality</li>
+                                <li>Test password reset and/or recovery</li>
+                                <li>Test password change process</li>
+                                <li>Test CAPTCHA</li>
+                                <li>Test multi factor authentication</li>
+                                <li>Test for logout functionality presence</li>
+                                <li>Test for default logins</li>
+                                <li>Test for out-of channel notification of account lockouts and successful
+                                    password
+                                    changes
+                                </li>
+                                <li>Test for consistent authentication across applications with
+                                    shared authentication schema / SSO and alternative channels
+                                </li>
+                                <li>Test for Weak security question/answer</li>
+                                <li>Test for user enumeration</li>
+                                <li>Test for authentication bypass</li>
+                                <li>Test for brute force protection</li>
+                                <li>Test for Credentials Transported over an Encrypted
+                                    Channel
+                                </li>
+                                <li>Test for cache management on HTTP (eg Pragma,
+                                    Expires, Max-age)
+                                </li>
+                                <li>Test for user-accessible authentication history</li>
+                            </ul>
+                            Session Management
+                            <ul>
+                                <li>Establish how session management is handled in the
+                                    application (eg, tokens in cookies, token in URL)
+                                </li>
+                                <li>Check session tokens for cookie flags (httpOnly and secure)</li>
+                                <li>Check session cookie scope (path and domain)</li>
+                                <li>Check session cookie duration (expires and max-age)</li>
+                                <li>Check session termination after a maximum lifetime</li>
+                                <li>Check session termination after relative timeout</li>
+                                <li>Check session termination after logout</li>
+                                <li>Test to see if users can have multiple simultaneous sessions</li>
+                                <li>Test session cookies for randomness</li>
+                                <li>Confirm that new session tokens are issued on login, role change and
+                                    logout
+                                </li>
+                                <li>Test for consistent session management across applications with shared
+                                    session
+                                    management
+                                </li>
+                                <li>Test for session puzzling</li>
+                                <li>Test for CSRF and clickjacking</li>
+                            </ul>
+                            Authorization:
+                            <ul>
+                                <li>Test for path traversal</li>
+                                <li>Test for vertical Access control problems (a.k.a. Privilege
+                                    Escalation)
+                                </li>
+                                <li>Test for horizontal Access control problems (between two users at the
+                                    same
+                                    privilege level)
+                                </li>
+                                <li>Test for missing authorization</li>
+                                <li>Test for Insecure Direct Object Reference</li>
+                            </ul>
+                            Vulnerable Functionality
+                            File Upload Related:
+                            <ul>
+                                <li>Test that acceptable file types are whitelisted and non-whitelisted
+                                    types are
+                                    rejected
+                                </li>
+                                Test that file size limits, upload frequency and total file counts are
+                                defined and
+                                are enforced
+                                <li>Test that file contents match the defined file type</li>
+                                <li>Test that all file uploads have Anti-Virus scanning inplace.</li>
+                                <li>Test upload of malicious files</li>
+                                <li>Test that unsafe filenames are sanitized</li>
+                                <li>Test that uploaded files are not directly accessible within the web
+                                    root
+                                </li>
+                                <li>Test that uploaded files are not served on the same hostname/port</li>
+                                <li>Test that files and other media are integrated with the authentication
+                                    and
+                                    authorization schemas Payments
+                                </li>
+                                <li>Test for default or guessable password</li>
+                                <li>Test for Injection vulnerabilities</li>
+                                <li>Test for Buffer Overflows</li>
+                                <li>Test for Insecure Cryptographic Storage</li>
+                                <li>Test for Insufficient Transport Layer Protection</li>
+                                <li>Test for Improper Error Handling</li>
+                                <li>Test for all vulnerabilities with a CVSS v2 score > 4.0</li>
+                                <li>Test for Authentication and Authorization issues</li>
+                                <li>Test for CSRF</li>
+
+                            </ul>
+                        </td>
+                        <td>Description</td>
+                    </tr>
+                    <tr>
+                        <td>API consumers access the API with multifactor authentication</td>
+                        <td>Description</td>
+                    </tr>
+                    <tr>
+                        <td>Code & Libraries Security</td>
+                        <td>Description</td>
+                    </tr>
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+
+        <!-- jQuery CDN -->
+         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                 });
+             });
+         </script>
+    </body>
+</html>

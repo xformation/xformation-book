@@ -1,0 +1,24 @@
+{
+	"plugins": ["toggle-chapters", "include-html", "disqus", "fontsettings","theme-gestalt", "-theme-default",
+	"styles-sass-fix"],
+	"pluginsConfig": {
+		"disqus": {
+			"shortName": "xformation"
+		},
+		"fontsettings": {
+            		"theme": "white", 
+            		"family": "sans", 
+            		"size": 2        
+       		 },
+       		"theme-gestalt": {
+                   "logo": "/assets/300-dpi-high-resolution-logo.png",            
+                   "favicon": "/assets/home.png",       
+                   "baseUrl": null,                
+                   "excludeDefaultStyles": true,        
+                   "doNotHideChildrenChapters" : false        
+                 }
+	},
+	"styles": {
+               "website": "./styles/website.scss"
+        }
+}
